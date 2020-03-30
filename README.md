@@ -13,6 +13,8 @@ Initially some companies saw this shift as a threat to the way things were done,
 
 In order to thrive in this new environment, brands need to monitor their presence online within a vast and complex  environment. Crucial to success is to be able to do this systematicallt and swiftly, and machine learning can help doing that in many ways. 
 
+## Google Slides:
+https://docs.google.com/presentation/d/12twjB-Y3eYv685l-nUHFRRpuD_go6rP7FfIa3oczqxk/edit?usp=sharing
 ## Project Overview
 
 ### Scraper
